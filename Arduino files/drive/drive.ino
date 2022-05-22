@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <Arduino.h>
 #include <WiFiClient.h>
-const char *ssid =  "Darshansh";     // replace with your wifi ssid and wpa2 key
-const char *pass =  "dhruvsh111";
+const char *ssid =  "********";     // replace with your wifi ssid and wpa2 key
+const char *pass =  "********";
 
 const int duration = 200;
 #define motor1in1 D1
